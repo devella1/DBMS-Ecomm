@@ -11,8 +11,14 @@
 ##### 1) User 
 - Sign-in, Sign-up
 - Reset password
-- Filter product based on i) Category ii) Price iii) Customer reviews
-- Sort products based on i) Arrival date ii) Price(high-low and low-high) iii) Customer reviews 
+- Filter product based on 
+ i) Category 
+ ii) Price 
+ iii) Customer reviews
+- Sort products based on 
+  i) Arrival date 
+  ii) Price(high-low and low-high) 
+  iii) Customer reviews 
 - View products
 - Add reviews
 - Add to cart
@@ -24,7 +30,8 @@
 In addtition to all the functionalitites that a user has, a seller can:
 - Add new products
 - Edit existing ones
-- Review orders made by users and edit them
+- Review orders made by users
+- Edit orders
 
 
 
