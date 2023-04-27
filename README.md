@@ -20,7 +20,7 @@
 - Payment options
 - Payment Gateway
 
-##### 2)Seller
+##### 2) Seller
 In addtition to all the functionalitites that a user has, a seller can:
 - Add new products
 - Edit existing ones
