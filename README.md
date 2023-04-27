@@ -1,7 +1,7 @@
 # Vella Plaza
 
 <p>
-    <img src="Images/homepage.png" width="300">&emsp;
+    <img src="Images/homepage.png">
 </p>
 <br>
 
