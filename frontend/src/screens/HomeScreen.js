@@ -7,6 +7,8 @@ import { Helmet } from "react-helmet-async";
 import LoadingBox from "../components/LoadingBox";
 import MessageBox from "../components/MessageBox";
 import "../index.css";
+//import advertisementCard
+import AdvertisementCard from "../components/AdvertisementCard";
 
 
 const reducer = (state, action) => {
@@ -72,7 +74,7 @@ function HomeScreen() {
       </div>
       <br/>
       <br/>
-      <h1>FASHIONISTA SPOT</h1>
+      <h2 style={{'color':''}}>Fashionista Spot</h2>
       <div className="products">
         {loading ? (
           <LoadingBox />
@@ -87,6 +89,11 @@ function HomeScreen() {
             ))}
           </Row>
         )}
+      </div>
+            <br/>
+            <h2>Advertisement</h2>
+      <div class="advert">
+        <AdvertisementCard></AdvertisementCard>
       </div>
     </div>
   );
